@@ -98,6 +98,10 @@
     font-family: 'roboto', sans-serif;
 }
 
+.nav-item {
+    color: var(--light-text-color);
+}
+
 h1 {
     color: var(--light-text-color);
     font-family: 'Bebas neue';
